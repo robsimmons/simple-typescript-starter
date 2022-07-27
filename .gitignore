@@ -108,3 +108,6 @@ dist
 
 # Emacs artifacts
 *~
+
+# Build artifacts
+build
