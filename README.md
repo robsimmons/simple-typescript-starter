@@ -2,10 +2,10 @@
 
 A further simplified version of stemmlerjs/simple-typescript-starter with a few changes.
 
- - Use github actions to replace husky
- - Remove eslint
- - Remove project-specific VS Code configuration
- - Remove prettier (I have VS Code run prettier automatically)
+- Use github actions to replace husky
+- Remove eslint
+- Remove project-specific VS Code configuration
+- Remove prettier (I have VS Code run prettier automatically)
 
 ### Features
 
@@ -38,5 +38,3 @@ Runs the `jest` tests once.
 #### `npm run test:dev`
 
 Run the `jest` tests in watch mode, waiting for file changes.
-
-
